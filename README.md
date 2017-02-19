@@ -1,4 +1,4 @@
-# Super Dark One Theme
+# Super One Dark Theme
 VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax) theme.
 
 #### Adds a darker background to Atom's One Dark theme.
