@@ -4,9 +4,11 @@
   "description": "Atom One Dark Theme with darker background color",
   "version": "0.0.4",
   "publisher": "seansassenrath",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.5.0"
   },
+  "icon": "icon.svg",
   "categories": [
     "Themes"
   ],
