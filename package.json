@@ -2,7 +2,7 @@
   "name": "vscode-theme-superonedark",
   "displayName": "Super One Dark Theme",
   "description": "Atom One Dark Theme with darker background color",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "seansassenrath",
   "license": "MIT",
   "engines": {
@@ -28,20 +28,20 @@
     ]
   },
   "badges": [
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/version-short/seansassenrath.vscode-theme-superonedark.svg",
-			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
-			"description": "Extension version"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/installs/seansassenrath.vscode-theme-superonedark.svg",
-			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
-			"description": "Extension installs"
-		},
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/rating/seansassenrath.vscode-theme-superonedark.svg",
-			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
-			"description": "Extension Rating"
-		}
-	]
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/version-short/seansassenrath.vscode-theme-superonedark.svg",
+      "href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/installs/seansassenrath.vscode-theme-superonedark.svg",
+      "href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/rating/seansassenrath.vscode-theme-superonedark.svg",
+      "href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+      "description": "Extension Rating"
+    }
+  ]
 }
