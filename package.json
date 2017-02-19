@@ -2,7 +2,7 @@
   "name": "vscode-theme-superonedark",
   "displayName": "Super One Dark Theme",
   "description": "Atom One Dark Theme with darker background color",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "seansassenrath",
   "license": "MIT",
   "engines": {
