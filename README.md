@@ -1,9 +1,12 @@
+[![Marketplace](http://vsmarketplacebadge.apphb.com/version-short/seansassenrath.vscode-theme-superonedark.svg)](https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark.svg) [![Installs](http://vsmarketplacebadge.apphb.com/installs/seansassenrath.vscode-theme-superonedark.svg)](https://marketplace.visualstudio.com/seansassenrath.vscode-theme-superonedark.svg) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/seansassenrath.vscode-theme-superonedark.svg)](https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark.svg)  
+
 # Super One Dark Theme
 VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax) theme.
 
 #### Adds a darker background to Atom's One Dark theme.
 
 ![super-dark-one-theme-example](https://cloud.githubusercontent.com/assets/10020218/23105578/4578a324-f696-11e6-888d-90a148a46466.png)
+
 ## Installation
 Available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark)
 
