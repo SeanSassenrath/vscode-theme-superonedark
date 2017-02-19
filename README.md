@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "theme-superonedark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Super Dark One Theme
+VSCode Theme based on Atom's One Dark theme.
+![super-dark-one-theme-example](https://cloud.githubusercontent.com/assets/10020218/23105578/4578a324-f696-11e6-888d-90a148a46466.png)
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+### Changes
+Click here to go to the Changelog
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Expand this theme
+Use [Yo generator](https://code.visualstudio.com/Docs/customization/themes#_adding-a-new-theme)
 
-**Enjoy!**
+### Thanks to
+akamud [vscode-theme-onedark](https://github.com/akamud/vscode-theme-onedark/blob/master/README.md)
