@@ -9,6 +9,12 @@
     "vscode": "^1.5.0"
   },
   "icon": "icon.svg",
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark"
+  ],
   "categories": [
     "Themes"
   ],
@@ -20,5 +26,22 @@
         "path": "./themes/SuperOneDark.tmTheme"
       }
     ]
-  }
+  },
+  "badges": [
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version-short/seansassenrath.vscode-theme-superonedark.svg",
+			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+			"description": "Extension version"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/installs/seansassenrath.vscode-theme-superonedark.svg",
+			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+			"description": "Extension installs"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/rating/seansassenrath.vscode-theme-superonedark.svg",
+			"href": "https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark",
+			"description": "Extension Rating"
+		}
+	]
 }

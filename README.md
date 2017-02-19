@@ -4,6 +4,8 @@ VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax)
 #### Adds a darker background to Atom's One Dark theme.
 
 ![super-dark-one-theme-example](https://cloud.githubusercontent.com/assets/10020218/23105578/4578a324-f696-11e6-888d-90a148a46466.png)
+## Installation
+Available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/seansassenrath.vscode-theme-superonedark)
 
 ## Changes
 Click here to go to the [Changelog](https://github.com/SeanSassenrath/vscode-theme-superonedark/blob/master/CHANGELOG.md)
